@@ -1,1 +1,3 @@
-print(banana is red)
+
+banana = "red"
+print(banana)
